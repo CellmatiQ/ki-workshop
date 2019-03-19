@@ -1,1 +1,1 @@
-# cellmatiq-seminar
+# cellmatiq-workshop
