@@ -11,3 +11,5 @@ Im Anschluss werden Convolutional Neural Networks vorgestellt und die MNIST-Klas
 [AI Experiments](https://experiments.withgoogle.com/collection/ai) ist eine Sammlung von kleinen interaktiven Webapplikationen, die AI im Bereich Computer Vision, Natural Language Processing und Tonverarbeitung demonstrieren.
 
 [Google AI: Education](https://ai.google/education/)
+
+[OpenAI Gym](http://gym.openai.com/) ist ein Toolkit zum Entwicklen und Vergleichen von Reinforcement Learning (RL) Algorithmen. Grundsätzlich eher was für Fortgeschrittene, kann aber einen guten Einstieg in RL ermöglichen.

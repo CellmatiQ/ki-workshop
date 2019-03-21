@@ -23,3 +23,6 @@ Anhand von interaktiven Jupyter-Notebooks und der Python-Library [scikit-learn](
 Mit scikit-learn und den vorhandenen Daten können mit wenigen Codezeilen erste Ergebnisse produziert werden. Da viele Teilnehmer wohlmöglich nicht programmieren können, muss selbst kein Code geschrieben werden. Vielmehr werden vorgefertigte, gut kommentierte Codeblöcke ausgeführt und Ergebnisse visualisiert. Eventuell kann hier noch eine kleine Challenge eingebaut werden, falls 
 
 _Voraussetzung: Teilnehmer haben einen Computer dabei._
+
+# Weiterführende Links
+[R2D3: Visuelle Einführung ins maschinelle Lernen](http://www.r2d3.us/visuelle-einfuehrung-ins-maschinelle-lernen-teil-1/) ist ein Experiment, in dem statistische Abläufe animiert dargestellt werden. Die hier verlinkte Seite zeigt die Funktionsweise von Entscheidungsbäumen. Diese werden im Bereich Machine Learning zur Klassifikation genutzt.
