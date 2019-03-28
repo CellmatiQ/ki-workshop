@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-def plot_images(images, cls_true, cls_pred=None):
+def plot_images(images, cls_true, cls_pred=None, label="True"):
     assert len(images) == len(cls_true) == 9
     
     # Create figure with 3x3 sub-plots.
@@ -13,7 +13,7 @@ def plot_images(images, cls_true, cls_pred=None):
 
         # Show true and predicted classes.
         if cls_pred is None:
-            xlabel = "True: {0}".format(cls_true[i])
+            xlabel = "{0}: {1}".format(label, cls_true[i])
         else:
             xlabel = "True: {0}, Pred: {1}".format(cls_true[i], cls_pred[i])
 
